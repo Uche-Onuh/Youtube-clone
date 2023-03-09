@@ -26,7 +26,6 @@ const VideoCard = ({
           sx={{width: 350, height: 180}}
         />
       </Link>
-      video
     </Card>
   );
 };
